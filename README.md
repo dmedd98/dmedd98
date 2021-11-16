@@ -1,7 +1,7 @@
 ### Hi there I'm Dillon 👋
 
 
-[About Me] 🧔
+## About Me 🧔
 
  - Flatiron School Data Science Bootcamp Graduate 🎓
  - Economics and Mathematics Background ♾️
@@ -9,7 +9,13 @@
  - Active Human ⚽ 🛹
  - NYC Resident 🗽
  
- [Projects]
+## Projects
+
+
+
+## Skills
+
+<i class="devicon-python-plain-wordmark colored"></i> <i class="devicon-postgresql-plain-wordmark colored"></i>
  
  
  
