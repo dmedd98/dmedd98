@@ -14,13 +14,10 @@
 [NBA Game Predictions](https://github.com/dmedd98/nba_game_predictor) 🏀
   - Machine Learning models trained with advanced statistics from over 4,000 games to predict winning team and margin of victory in NBA games
   - 64% accuracy in predicting winner, 56% accuracy picking against spread
- 
 [NLP Tweet Sentiment Analysis](https://github.com/dmedd98/NLP-Analysis) 🐦
   - Utilized TfidfVectorizer and Support Vector Classifier to achieve 70% accuracy on tweet sentiment prediction model
-
 [Chicago Car Accident Prevention](https://github.com/rhk48/chicago-cars) 🚙
   - Decision Tree Classifier built to predict which car accidents were likely to cause injury based on time, location, crash type, weather, etc.
-
 [King County Home Price Prediction](https://github.com/jmarkowi/kingcounty) 🏡
   - OLS regression predicting price of houses in King County, Washington.
 
@@ -32,8 +29,7 @@
 
 ### Lets Connect!
 
-[https://www.linkedin.com/in/dillon-medd/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/dillon-medd/) 
 
  
  
