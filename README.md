@@ -1,7 +1,7 @@
-### Hi there I'm Dillon 👋
+## Hi there I'm Dillon 👋
 
 
-## About Me 🧔
+### About Me 🧔
 
  - Flatiron School Data Science Bootcamp Graduate 🎓
  - Economics and Mathematics Background ♾️
@@ -9,7 +9,7 @@
  - Active Human ⚽ 🛹
  - NYC Resident 🗽
  
-## Projects
+### Projects
 
 [NBA Game Predictions](https://github.com/dmedd98/nba_game_predictor) 🏀
   - Machine Learning models trained with advanced statistics from over 4,000 games to predict winning team and margin of victory in NBA games
@@ -24,16 +24,15 @@
 [King County Home Price Prediction](https://github.com/jmarkowi/kingcounty) 🏡
   - OLS regression predicting price of houses in King County, Washington.
 
-
-## Skills 
+### Skills 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Lets Connect!
+### Lets Connect!
 
-![https://www.linkedin.com/in/dillon-medd/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/dillon-medd/)
 
 
  
