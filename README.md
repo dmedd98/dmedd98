@@ -1,7 +1,7 @@
 ### Hi there I'm Dillon 👋
 
 
-[About Me 🧔]
+[About Me] 🧔
 
  - Flatiron School Data Science Bootcamp Graduate 🎓
  - Economics and Mathematics Background ♾️
