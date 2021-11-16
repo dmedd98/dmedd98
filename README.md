@@ -13,7 +13,7 @@
 
 
 
-## Skills
+## Skills <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <i class="devicon-python-plain-wordmark colored"></i> <i class="devicon-postgresql-plain-wordmark colored"></i>
  
