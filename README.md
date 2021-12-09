@@ -24,6 +24,9 @@
 [King County Home Price Prediction](https://github.com/jmarkowi/kingcounty) 🏡
   - OLS regression predicting price of houses in King County, Washington.
 
+[SQL Practice](https://github.com/dmedd98/sql-codeacademy)
+  - Examples of queries inspired from CodeAcademy Course, *Analyze Data with SQL*
+
 ## Skills  🖥️
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
