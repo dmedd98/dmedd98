@@ -17,6 +17,9 @@
   
 [NLP Tweet Sentiment Analysis](https://github.com/dmedd98/NLP-Analysis) 🐦
   - Utilized TfidfVectorizer and Support Vector Classifier to achieve 70% accuracy on tweet sentiment prediction model
+
+[Deep Learning Admission Predicter](https://github.com/dmedd98/admissions_regression)
+  - Deep Learning model created with TensorFlow to predict chance of admittance for prospective graduate school students, achieved R-squared of .819
   
 [Chicago Car Accident Prevention](https://github.com/rhk48/chicago-cars) 🚙
   - Decision Tree Classifier built to predict which car accidents were likely to cause injury based on time, location, crash type, weather, etc.
