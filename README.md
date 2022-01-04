@@ -14,13 +14,16 @@
 [NBA Game Predictions](https://github.com/dmedd98/nba_game_predictor) 🏀
   - Machine Learning models trained with advanced statistics from over 4,000 games to predict winning team and margin of victory in NBA games
   - 64% accuracy in predicting winner, 56% accuracy picking against spread
-  
+
 [NLP Tweet Sentiment Analysis](https://github.com/dmedd98/NLP-Analysis) 🐦
   - Utilized TfidfVectorizer and Support Vector Classifier to achieve 70% accuracy on tweet sentiment prediction model
 
 [Deep Learning Model for Chance of Graduate School Admittance](https://github.com/dmedd98/admissions_regression)
   - Deep Learning model created with TensorFlow to predict chance of admittance for prospective graduate school students, achieved R-squared of .819
-  
+
+[Deep Learning Classifier of Lung Illness](https://github.com/dmedd98/covid_classification)
+  - Deep Learning Classifier built to decify healthy lungs from lungs infected with covid and pneumonia, achieved accuracy of 89%
+ 
 [Chicago Car Accident Prevention](https://github.com/rhk48/chicago-cars) 🚙
   - Decision Tree Classifier built to predict which car accidents were likely to cause injury based on time, location, crash type, weather, etc.
  
