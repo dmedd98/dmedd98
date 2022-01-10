@@ -18,6 +18,9 @@
 [NLP Tweet Sentiment Analysis](https://github.com/dmedd98/NLP-Analysis) 🐦
   - Utilized TfidfVectorizer and Support Vector Classifier to achieve 70% accuracy on tweet sentiment prediction model
 
+[Forest Cover Type Classification](https://github.com/dmedd98/forest_cover_classification)
+- Neural Network created from Dataset containing information of over 500k trees (7 different cover types) derived and obtained by the US Geological Survey and USFS, obtained accuracy of 85%
+
 [Deep Learning Model for Chance of Graduate School Admittance](https://github.com/dmedd98/admissions_regression)
   - Deep Learning model created with TensorFlow to predict chance of admittance for prospective graduate school students, achieved R-squared of .819
 
